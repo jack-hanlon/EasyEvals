@@ -1,0 +1,1 @@
+[{"run_id":"GFJUCeSDrcsJMzch5HZ5an","model":"openai\/gpt-4","prompt":"{prompt}","accuracy":0.79,"stderr":0.0409360181,"run_start":"2024-11-23T00:27:58-08:00","run_end":"2024-11-23T00:40:23-08:00","upper_bound":0.8702345954,"lower_bound":0.7097654046}]

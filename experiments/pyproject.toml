@@ -1,0 +1,16 @@
+[project]
+name = "experiments"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.39.0",
+    "google-generativeai>=0.8.3",
+    "inspect-ai>=0.3.47",
+    "ipykernel>=6.29.5",
+    "mistralai>=1.2.3",
+    "numpy>=2.1.3",
+    "openai>=1.55.0",
+    "pandas>=2.2.3",
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "input": "John moved to the kitchen. Mary is in the garden. Where is John?",
+        "target": "kitchen"
+    },
+    {
+        "input": "The ball is in the box. John picked up the ball. Where is the ball now?",
+        "target": "John"
+    },
+    {
+        "input": "Alice went to the park. Bob is at the library. Where is Alice?",
+        "target": "park"
+    },
+    {
+        "input": "The keys are on the table. Sarah moved the keys to the drawer. Where are the keys now?",
+        "target": "drawer"
+    },
+    {
+        "input": "Emma entered the living room. The book is on the shelf. Emma took the book to her room. Where is the book?",
+        "target": "Emma's room"
+    }
+]

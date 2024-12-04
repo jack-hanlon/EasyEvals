@@ -1,0 +1,6 @@
+input,target
+"John moved to the kitchen. Mary is in the garden. Where is John?","kitchen"
+"The ball is in the box. John picked up the ball. Where is the ball now?","John"
+"Alice went to the park. Bob is at the library. Where is Alice?","park"
+"The keys are on the table. Sarah moved the keys to the drawer. Where are the keys now?","drawer"
+"Emma entered the living room. The book is on the shelf. Emma took the book to her room. Where is the book?","Emma's room"
